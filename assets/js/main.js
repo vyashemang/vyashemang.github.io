@@ -155,7 +155,7 @@ NOTE: This is the custom jQuery file for the template
         /*======== Preloder ===========*/
        setTimeout(function() {
             $('body').addClass('loaded');
-        }, 2500);
+        }, 100);
 
     });
 
